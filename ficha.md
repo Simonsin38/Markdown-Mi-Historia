@@ -50,8 +50,6 @@ Un video recomendado:
 Hoy me siento: 🥱  
 Mis herramientas favoritas: ☂️🧯🪠
 
-[Volver al inicio](#mi-primera-chamba-)
-
 ## 🖥️ Código
 
 ```python
@@ -68,3 +66,5 @@ print(saludar("mundo"))
 | Títulos | Con la tecla "#" se puede convertir cualquier texto a un titulo, entre más "#" más pequeño será el título. |
 | Links | Primero se colocan corchetes y luego parentesis, sin espacios entre ellos, dentro de los corchetes va texto y en los parentesis va el link.
 | Imágenes | Se utiliza el simbolo "!" seguido de corchetes para la descripción de la imagen y parentesis para la URL de la imagen, también se puede subir una imagen a un repositorio de git y utilizar un comando para subirla.|
+
+[Volver al inicio](#mi-primera-chamba-)
